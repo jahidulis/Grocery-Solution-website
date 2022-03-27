@@ -1,0 +1,82 @@
+
+[
+  
+    {
+      "id": "623eb1c88be751b3f0b6ec4f",
+      "index": 0,
+      "picture": "./images/combo1.jpg",
+      "name": "Pran Combo1",
+      "price": "350"
+    },
+    {
+      "id": "623eb1c8dd9634489816ffa3",
+      "index": 1,
+      "picture": "./images/combo2.jpg",
+      "name": "Pran Combo2", 
+      "price": "475"
+    },
+    {
+      "id": "623eb1c89d76aed2b001a6c1",
+      "index": 2,
+      "picture": "./images/combo3.jpg",
+      "name": "Eid Combo",
+      "price": "400"
+    },
+    {
+      "id": "623eb1c86ce422798e0c63be",
+      "index": 3,
+      "picture": "./images/combo4.jpg",
+      "name": "Nivea Man's Combo",
+      "price": "800"
+    },
+    {
+      "id": "623eb1c85117b3de24cb3238",
+      "index": 4,
+      "picture": "./images/combo5.jpg",
+      "name": "Daily Combo1",
+      "price": "1200"
+    },
+    {
+      "id": "623eb1c8fbf13cde94d8392c",
+      "index": 5,
+      "picture": "./images/combo6.jpg",
+      "name": "Daily Combo2",
+      "price": "2200"
+    },
+    {
+      "id": "623eb1c8d9984731364010e5",
+      "index": 6,
+      "picture": "./images/combo7.jpg",
+      "name": "Daily Combo3",
+      "price": "3500"
+    },
+    {
+      "id": "623eb1c8862da40396c91e77",
+      "index": 7,
+      "picture": "./images/combo8.jpg",
+      "name": "Brahama",
+      "name": "Daily Combo4",
+      "price": "3000"
+    },
+    {
+      "id": "623eb1c8b481592c55472c42",
+      "index": 8,
+      "picture": "./images/combo9.jpg",
+      "name": "Daily Combo5",
+      "price": "1600"
+    },
+    {
+      "id": "623eb1c8ba82aa9f1bc0c444",
+      "index": 9,
+      "picture": "./images/combo10.jpg",
+      "name": "Daily Combo6",
+      "price": "3000"
+    },
+    {
+      "id": "623eb1c8da9a898aed3984cb",
+      "index": 10,
+      "picture": "./images/combo11.jpg",
+      "name": "Daily Combo7",
+      "price": "3800"
+    }
+  ]
